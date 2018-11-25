@@ -1,5 +1,4 @@
 #! /usr/bin/python
-# https://stackoverflow.com/questions/225735/batch-renaming-of-files-in-a-directory
 
 import os
 import sys
@@ -41,9 +40,9 @@ def help_message():
 
     {}
 
-    Rename files in a working directory in batch.
+    Rename files in a directory in batch.
 
-    rename.py -f[--from] "'" -t[--to] '' -d[--directory] /home/someone/Pictures
+    rename_files.py -f[--from] "_" -t[--to] "" -d[--directory] /home/someone/Pictures
 
     Options:
 
