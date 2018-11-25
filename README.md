@@ -3,7 +3,7 @@ rename_files.py renames files in batch in the current working directory or recur
 
 Rename files in a directory in batch
 
-    rename.py -f[--from] "'" -t[--to] '' -d[--directory] /home/someone/Pictures
+    rename.py -f[--from] "'" -t[--to] "" -d[--directory] /home/someone/Pictures
 
     Options:
 
