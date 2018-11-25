@@ -1,5 +1,12 @@
-# rename_files
+# rename_files.py
 rename_files.py renames files in batch in the current working directory or recursively. It does not rename one file at a time.
+
+# Dependencies:
+
+1. UNIX or Windows operating system
+2. Python 2.7+
+
+# Usage
 
 Rename files in a directory in batch
 
